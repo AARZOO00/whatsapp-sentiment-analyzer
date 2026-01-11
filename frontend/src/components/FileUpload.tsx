@@ -3,10 +3,10 @@ import { useState } from 'react';
 interface FileUploadProps {
   onFileUpload: (file: File) => void;
   isLoading: boolean;
-  error?: string | null;
 }
 
-const FileUpload: React.FC<FileUploadProps> = ({ onFileUpload, isLoading, error }) => {
+const FileUpload: React.FC<FileUploadProps> = ({ onFileUpload, isLoading }) => {
+
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [isDragging, setIsDragging] = useState<boolean>(false);
   const [fileError, setFileError] = useState<string | null>(null);
