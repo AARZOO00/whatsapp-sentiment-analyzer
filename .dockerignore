@@ -1,0 +1,55 @@
+# Git
+.git
+.gitignore
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+.npm
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+dist
+build
+.egg
+*.egg
+
+# Virtual Environment
+.venv
+venv
+env
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+/frontend/dist
+/frontend/build
+/backend/dist
+
+# Testing
+.pytest_cache
+coverage
+.nyc_output
+
+# Logs
+logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

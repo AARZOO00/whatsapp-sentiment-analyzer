@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+nltk
+vaderSentiment
+transformers
+torch
+emoji
+python-multipart
+scikit-learn
+langdetect
+textblob
+google-cloud-translate
+pydantic-settings

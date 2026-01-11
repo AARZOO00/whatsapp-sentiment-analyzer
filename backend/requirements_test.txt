@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+nltk
+vaderSentiment
+emoji
+python-multipart
+scikit-learn
+langdetect
+pydantic-settings
+onnxruntime

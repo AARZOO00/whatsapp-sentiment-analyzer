@@ -1,0 +1,11 @@
+[10/01/26, 10:00] John Doe: Hello everyone! 👋 This is a test chat.
+10/02/2026, 10:01 AM - Jane Smith: Hi John! I am feeling very happy today. 😊
+[10/03/26, 10:05] John Doe: I'm great, thanks! This new project is amazing. 🚀
+10-04-2026, 10:07 - Jane Smith: That's awesome! But I am a bit sad that the weekend is over.
+I hate Mondays! It's so frustrating. 😂
+This is a system message.
+<Media omitted>
+[10-05-2026, 10:12] Mark Green: This is a terrible idea. I am so angry. 😠
+10/06/26, 10:15 - John Doe: Let's stay positive. Everything will be fine. 🙏
+[10/07/2026, 10:20] Jane Smith: I agree! Let's just do our best. 👍
+10/08/2026, 10:22 - Mark Green: I am still not convinced. This is just neutral for me.

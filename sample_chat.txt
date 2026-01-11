@@ -1,0 +1,12 @@
+12/01/24, 9:45 PM - Rahul: This is the first format.
+12-01-2024, 21:45 - John Doe: This is the second format, with some Hindi text: कैसा है?
+1/5/23, 10:02 am - Messages to this group are now secured. This is a system message.
+This is a multiline message
+that continues on the next line.
+This is another message from Rahul.
+<Media omitted>
+Another message from John Doe.
+This message has some emojis 😊🚀.
+This is a very positive and happy message! I love this.
+This is a very negative and angry message. I hate this.
+This is a neutral message.
