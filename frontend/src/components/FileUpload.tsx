@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import type { DragEvent } from 'react';
+import { useState } from 'react';
 
 interface FileUploadProps {
   onFileUpload: (file: File) => void;
@@ -50,13 +49,13 @@ const FileUpload: React.FC<FileUploadProps> = ({ onFileUpload, isLoading, error 
     }
   };
 
-  const handleDrag = (e: DragEvent<HTMLDivElement>, dragState: boolean) => {
+  const handleDrag = (e: React.DragEvent<HTMLDivElement>, dragState: boolean) => {
     e.preventDefault();
     e.stopPropagation();
     setIsDragging(dragState);
   };
   
-  const handleDrop = (e: DragEvent<HTMLDivElement>) => {
+  const handleDrop = (e: React.DragEvent<HTMLDivElement>) => {
     handleDrag(e, false);
     if (e.dataTransfer.files && e.dataTransfer.files[0]) {
       const file = e.dataTransfer.files[0];
